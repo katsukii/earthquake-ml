@@ -12,5 +12,8 @@ spatial and temporal patterns that matter for disaster‑prevention research.
 
 ## Dataset
 
-Earthquakes in Japan
-https://www.kaggle.com/datasets/aerodinamicc/earthquakes-in-japan
+[Earthquakes in Japan](https://www.kaggle.com/datasets/aerodinamicc/earthquakes-in-japan)
+
+## Tech Stack
+
+Python · pandas · scikit‑learn · seaborn · matplotlib · Folium
