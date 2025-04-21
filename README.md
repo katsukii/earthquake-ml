@@ -29,7 +29,6 @@ For a full interactive report, visit the **[GitHub Pages site](https://katsukii.
 ## Dataset
 
 [Earthquakes in Japan – Kaggle](https://www.kaggle.com/datasets/aerodinamicc/earthquakes-in-japan)  
-_License: CC BY 4.0 (see `DATA_LICENSE.txt`)_
 
 ## Tech Stack
 
