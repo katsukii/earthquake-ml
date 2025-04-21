@@ -1,6 +1,6 @@
 [![pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://katsukii.github.io/earthquake-ml-project/)
 
-# Earthquake Pattern Clustering in Japan
+# Seismic Insight Machine Learning
 
 ## Overview
 
