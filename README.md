@@ -1,4 +1,4 @@
-[![pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://katsukii.github.io/earthquake-ml-project/)
+[![pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://katsukii.github.io/earthquake-ml/)
 
 # Seismic Insight Machine Learning
 
