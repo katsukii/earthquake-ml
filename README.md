@@ -24,7 +24,7 @@ spatial and temporal patterns relevant to disaster‑prevention research.
 | ![](reports/figures/06_kmeans_2d.png)    | K‑Means clusters (2‑D).                 |
 | ![](reports/figures/07_kmeans_3d.png)    | K‑Means clusters (3‑D).                 |
 
-For a full interactive report, visit the **[GitHub Pages site](https://katsukii.github.io/earthquake-ml-project/)**.
+For a full interactive report, visit the **[GitHub Pages site](https://katsukii.github.io/earthquake-ml)**.
 
 ## Dataset
 
